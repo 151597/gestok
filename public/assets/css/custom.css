@@ -1,0 +1,7 @@
+/* Write your custom CSS here */
+.sub-menu .divider{
+	height: 1px;
+	margin: 9px 0;
+	overflow: hidden;
+	background-color: #E5E5E5;
+}
